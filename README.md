@@ -12,6 +12,8 @@ Use the W3C validator: http://validator.w3.org/#validate_by_input
 
 #### Due September 20: HTML links and images
 
+Fix all broken absolute and relative URLs used for links and images.
+
 #### Due September 27: HTML wireframe
 
 #### Due October 4: CSS typography
