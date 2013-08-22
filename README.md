@@ -6,6 +6,10 @@ Lessons for MMC3260
 
 #### Due September 13: HTML quick fix
 
+Fix any incorrect tag syntax or mismatched tags in 1.html-quick-fix.html
+
+Use the W3C validator: http://validator.w3.org/#validate_by_input
+
 #### Due September 20: HTML links and images
 
 #### Due September 27: HTML wireframe
