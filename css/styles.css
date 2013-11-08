@@ -1,7 +1,43 @@
-hi {
-     color: red;
+* {box-sizing:border-box;
+   margin:0;
+   padding:0;
 }
 
-h2 {
-    color: blue;
+body {margin-left:1%; 
+}
+
+h1,h2 { 
+    font-family:serif;          
+}
+
+h1 {font-size:30px;
+    font-weight:bolder; 
+    color: #ff3300; 
+}
+h2 {font-size:15px; 
+    font-weight:lighter;
+    color: #666666;
+    margin-bottom:5px; 
+}
+
+
+p {
+   font-family:serif;
+   font-size:20px;
+   font-weight:800;
+}
+
+@media screen and (max-width: 600px) {
+    body {padding: 3%; 
+    }
+    
+    h1, h2 {text-align:center;
+    }
+    
+    div#box {width: 100%; 
+    }
+    
+    p {width: 100%;
+    } 
+  
 }
